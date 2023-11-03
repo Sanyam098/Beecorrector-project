@@ -4,3 +4,4 @@ This is the project based on correcting grammatical error and syntax error.
 **Implemented a real-time character count feature for added convenience.**
 This project underscores proficiency in **problem**-**solving**, and a **commitment** to **improving** **communication** **effectiveness**.
 
+
